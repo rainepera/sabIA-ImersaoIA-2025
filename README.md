@@ -84,6 +84,7 @@ Confira a visão de como o sabIA poderia parecer com uma interface amigável:
 *Exemplo da funcionalidade de simplificação de texto, exercício e feedback em uma interface visual.*
 
 A simulação de conversa foi retirada de uma real conversa-teste com o sabIA, diretamente do Google Colab:
+
 "Olá! Eu sou o SabIA, seu amigo para aprender!
 O que você gostaria de fazer hoje?
 
@@ -134,9 +135,23 @@ Parabéns pela sua resposta! Continue estudando e pensando sobre isso! Você est
 3. Gerar um exercício
 4. Avaliar uma resposta (dar feedback)
 5. Sair
----------------------
+
 Escolha uma opção (1-5):"
 
+---
+## 💻 Tecnologias Utilizadas
+
+O sabIA foi desenvolvido e prototipado utilizando as seguintes tecnologias e ferramentas:
+
+- Google Gemini API: A inteligência artificial generativa que impulsiona todas as funcionalidades de processamento de linguagem do sabIA (simplificação, perguntas, exercícios e feedback).
+
+- Python: A linguagem de programação principal para o desenvolvimento do core do aplicativo.
+
+- Google Colab: Ambiente de notebook baseado em nuvem, utilizado para desenvolvimento, testes e prototipagem inicial do projeto.
+
+- Python-dotenv: Biblioteca Python para carregar variáveis de ambiente de arquivos .env, garantindo a segurança da API Key (mesmo que para uso local).
+
+- Canva: Ferramenta de design gráfico utilizada para a criação dos protótipos visuais e do mascote do sabIA, explorando a visão futura da interface.
 ---
 
 ## 🚀 Como Executar o Projeto (Localmente)
