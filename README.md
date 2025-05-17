@@ -3,14 +3,13 @@
 
 # 🧠 sabIA — Alfabetização com Inteligência e Simplicidade
 
-![Mascote SabIA](https://raw.githubusercontent.com/rainepera2025/main/assets/mascote_sabia.png)
-*(Substitua "SEU_USUARIO_GITHUB" pelo seu nome de usuário no GitHub e crie a pasta 'assets' para colocar a imagem do seu mascote Sabiá aqui!)*
-
 ---
 
 ## 🎯 Resumo do Projeto
 
 O **sabIA** é um aplicativo educacional inovador, com foco em pais, educadores e professores do ensino fundamental. Ele foi criado para auxiliar crianças e adolescentes que enfrentam desafios como o analfabetismo funcional ou dificuldades de compreensão leitora. Minha missão é transformar textos complexos em conteúdos simples, claros e didáticos, promovendo inclusão, entendimento e aprendizado real.
+
+![Logo do Projeto sabIA](https://github.com/rainepera/sabIA-ImersaoIA-2025/blob/main/images/logo-sabia.jpg)
 
 ---
 
@@ -34,6 +33,8 @@ O nome **sabIA** é uma fusão criativa entre:
 * **"IA" (Inteligência Artificial)**: A tecnologia que impulsiona a solução.
 
 O mascote do aplicativo é um passarinho sabiá voando, com asas em formato de livro, representando o voo da leitura e do conhecimento acessível.
+
+![Mascote SabIA](https://github.com/rainepera/sabIA-ImersaoIA-2025/blob/main/images/mascote-sabia.jpg)
 
 ---
 
@@ -64,6 +65,77 @@ O coração do **sabIA** é a IA do Google Gemini, que atua como o próprio agen
 * **Visual Amigável:** (Embora seja uma CLI, o conceito visual é lúdico e inspirador, como o mascote Sabiá).
 * **IA de Ponta:** Uso ético e educativo da inteligência artificial.
 * **Impacto Social:** Foco principal em transformar vidas através da alfabetização, não apenas em tecnologia.
+
+---
+
+## 🎨 Galeria de Design (Visão Futura) - Protótipo
+
+Confira a visão de como o sabIA poderia parecer com uma interface amigável:
+
+![Tela Inicial com Logo](https://github.com/rainepera/sabIA-ImersaoIA-2025/blob/main/images/prototipo-tela-inicial.png)
+*Tela inicial do aplicativo, com a logo do sabIA*
+
+![Tela Principal do App](https://github.com/rainepera/sabIA-ImersaoIA-2025/blob/main/images/prototipo-new-conversation.png)
+*Tela principal da interface gráfica imaginada para o sabIA.*
+
+![Tela de Conversa com sabIA 1](https://github.com/rainepera/sabIA-ImersaoIA-2025/blob/main/images/prototipo-conversation1.png)
+![Tela de Conversa com sabIA 2](https://github.com/rainepera/sabIA-ImersaoIA-2025/blob/main/images/prototipo-conversation2.png)
+![Tela de Conversa com sabIA 3](https://github.com/rainepera/sabIA-ImersaoIA-2025/blob/main/images/prototipo-conversation3.png)
+*Exemplo da funcionalidade de simplificação de texto, exercício e feedback em uma interface visual.*
+
+A simulação de conversa foi retirada de uma real conversa-teste com o sabIA, diretamente do Google Colab:
+"Olá! Eu sou o SabIA, seu amigo para aprender!
+O que você gostaria de fazer hoje?
+
+--- Menu do SabIA ---
+1. Simplificar um texto
+2. Fazer uma pergunta
+3. Gerar um exercício
+4. Avaliar uma resposta (dar feedback)
+5. Sair
+---------------------
+
+Processando...
+
+--- Texto Simplificado pelo SabIA ---
+Imagine que você tem um quarto super arrumado com todos os seus brinquedos em caixas.
+Entropia é como se, com o tempo, seus brinquedos começassem a sair das caixas sozinhos e o quarto ficasse bagunçado.
+É como se as coisas gostassem de virar bagunça com o tempo, e é difícil deixar tudo arrumadinho de novo!
+
+--- Menu do SabIA ---
+1. Simplificar um texto
+2. Fazer uma pergunta
+3. Gerar um exercício
+4. Avaliar uma resposta (dar feedback)
+5. Sair
+---------------------
+Processando...
+--- Exercício do SabIA sobre Entropia ---
+Imagine que você tem um quarto cheio de brinquedos arrumados. Um dia, você brinca muito e deixa tudo espalhado!
+
+**Pergunta:** Qual quarto tem mais entropia: o quarto arrumado ou o quarto bagunçado? Por quê?
+--- Menu do SabIA ---
+1. Simplificar um texto
+2. Fazer uma pergunta
+3. Gerar um exercício
+4. Avaliar uma resposta (dar feedback)
+5. Sair
+---------------------
+Processando...
+--- Feedback do SabIA ---
+Olá! Sua resposta está muito boa! Você acertou em dizer que um quarto bagunçado tem mais entropia do que um quarto arrumado. 
+Imagine que a entropia é como a bagunça das coisas. Quando tudo está no lugar certinho, bem organizado, a "bagunça" é menor, certo? Mas quando as coisas estão espalhadas, fora do lugar, a "bagunça" é maior!
+Uma outra forma de pensar é: é muito mais fácil um quarto ficar bagunçado sozinho do que ficar arrumado sozinho, não é? A entropia gosta de aumentar, ela gosta de "bagunçar" as coisas!
+Você sabe, na verdade, o universo todo está caminhando para ficar cada vez mais "bagunçado" (aumentando a entropia)! Isso quer dizer que um dia, talvez muuuuito no futuro, tudo estará tão bagunçado que nada mais vai acontecer! Mas não se preocupe, ainda falta muito para isso acontecer! 😉
+Parabéns pela sua resposta! Continue estudando e pensando sobre isso! Você está indo muito bem!
+--- Menu do SabIA ---
+1. Simplificar um texto
+2. Fazer uma pergunta
+3. Gerar um exercício
+4. Avaliar uma resposta (dar feedback)
+5. Sair
+---------------------
+Escolha uma opção (1-5):"
 
 ---
 
